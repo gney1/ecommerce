@@ -1,0 +1,39 @@
+.no-policies-found {
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;    
+}
+
+.load-more-policies {
+    text-align: center;
+    margin-bottom: 40px;    
+}
+
+.mh-50{
+    min-height: 50px;
+}
+
+.mh-400{
+    min-height: 300px;
+}
+
+.cart-summary-box{
+    border: 1px solid;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.cart-summary-box h3{
+    background-color: #ddd;
+}
+
+.header{
+    font-size: 30px;
+}
+
+.sub-header{
+    font-size: 20px;
+}
+.sub-header{
+    font-size: 15px;
+}
